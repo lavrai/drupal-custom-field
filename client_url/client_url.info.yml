@@ -1,0 +1,5 @@
+name: Client URLs
+type: module
+description:  Display selected list of urls.
+package: custom
+core_version_requirement: ^8 || ^9 || ^10
